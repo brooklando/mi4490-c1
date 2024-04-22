@@ -8,4 +8,4 @@ tags: [space, spaceships, planets, stars, combat]
 # Starfighter
 A small, maneuverable spacecraft created for combat in the galaxy.
 
-![Starfighter pic](./assets/lib/starfighter.jpg)
+![Starfighter pic](./assets/lib/img/starfighter.jpg)

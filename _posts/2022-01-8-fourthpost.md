@@ -8,4 +8,4 @@ tags: [space, spaceships, planets, stars, cargo]
 # YT-1300 Light Freighter
 Spaceship used for transporting cargo all throughout the galaxy.
 
-![Light Freighter pic](./assets/lib/freighter.png)
+![Light Freighter pic](./assets/lib/img/freighter.png)

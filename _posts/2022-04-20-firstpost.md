@@ -8,4 +8,4 @@ tags: [space, spaceships, planets, stars, combat]
 # Star Destroyer
 Dagger-shaped capital ships provided to the Galactic Republic, Galactic Empire, and the First Order.
 
-![Star Destroyer pic](./assets/lib/stardestroyer.jpeg)
+![Star Destroyer pic](./assets/lib/img/stardestroyer.jpeg)
