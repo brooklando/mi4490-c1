@@ -8,4 +8,4 @@ tags: [space, spaceships, planets, stars, weapon]
 # Death Star
 Original, gargantuan space station armed with a superlaser and kyber crystals.
 
-![Death Star pic](./assets/lib/img/deathstar.jpg)
+![Death Star pic](https://techcrunch.com/wp-content/uploads/2013/01/death-star.jpg?w=680)
